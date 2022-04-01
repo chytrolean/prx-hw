@@ -1,0 +1,25 @@
+.row{
+    background: red;
+}
+
+aside.col{
+    height: 50vh;
+}
+div.row{
+    height: 33.3%;
+    background: rgba(89, 0, 255, 0);
+    font-size: 2rem;
+}
+.col-3{
+    background: #bada55;
+}
+.color{
+    display: flex;
+    justify-content: space-around;
+}
+span{
+    height: 5px;
+    width: 5px;
+    padding: 25px;
+    background: #000;
+}
